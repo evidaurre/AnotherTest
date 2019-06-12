@@ -1,1 +1,3 @@
 pip install kmapper first
+
+The CSV file has numbers in a weird form- for example 1,299.95 in the 30th row. 
